@@ -1,0 +1,13 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+setup.py
+src/simple/__init__.py
+src/simple/simple_function.py
+src/simple_function.egg-info/PKG-INFO
+src/simple_function.egg-info/SOURCES.txt
+src/simple_function.egg-info/dependency_links.txt
+src/simple_function.egg-info/not-zip-safe
+src/simple_function.egg-info/requires.txt
+src/simple_function.egg-info/top_level.txt
